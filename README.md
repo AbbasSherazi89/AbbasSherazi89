@@ -35,8 +35,7 @@
 
 ## 📊 GitHub Stats  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AbbasSherazi89&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbbasSherazi89&theme=github-compact)](https://github.com/AbbasSherazi89)
+[![Abbas Sherazi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbbasSherazi89&show_icons=true&theme=dark)](https://github.com/AbbasSherazi89)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbbasSherazi89&layout=compact&theme=dark)](https://github.com/AbbasSherazi89)
 
