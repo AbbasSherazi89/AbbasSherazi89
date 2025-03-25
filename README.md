@@ -8,7 +8,7 @@
 - **Frontend:** Angular, JavaScript, TypeScript, HTML, CSS  
 - **Backend:** Strapi, Node.js, Express.js  
 - **Database:** PostgreSQL, MySQL  
-- **Tools & Platforms:** Git, GitHub, Docker  
+- **Tools & Platforms:** Git, GitHub  
 
 ## 🎯 Fun Facts & Achievements  
 - ⭐ Built several full-stack applications using Strapi and Angular  
