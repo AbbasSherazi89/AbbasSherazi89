@@ -2,8 +2,9 @@
 
 💻 **Software Engineer** | **Full-Stack Web Developer at TakDevs**  
 🚀 Passionate about building scalable and efficient web applications.  
-⚡ Specialized in **Strapi (Backend) | Angular (Frontend) | PostgreSQL (Database)**.  
-🌱 Always exploring new technologies and contributing to open-source projects. 
+⚡ Specialized in Strapi (Backend) | Angular (Frontend) | PostgreSQL (Database).  
+🌱 Always exploring new technologies and contributing to open-source projects.  
+
 ---
 
 ## 📌 My Skill Set  
