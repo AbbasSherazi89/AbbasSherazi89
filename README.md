@@ -35,15 +35,32 @@
 
 ## 📊 GitHub Stats  
 
-[![Abbas Sherazi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbbasSherazi89&show_icons=true&theme=dark)](https://github.com/AbbasSherazi89)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbbasSherazi89&layout=compact&theme=dark)](https://github.com/AbbasSherazi89)
-
----
+### 📊 **Top Languages**  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbbasSherazi89&layout=default&theme=tokyonight&langs_count=8&hide_border=true&card_width=1000)](https://github.com/AbbasSherazi89)  
 
 ---
 
-## 📫 Connect with Me  
+### 🔥 **Streak & Contributions**  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbbasSherazi89&theme=tokyonight&hide_border=true&card_width=1000)](https://github.com/AbbasSherazi89)  
+
+---
+
+### 🏆 **Profile Stats**  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbbasSherazi89&show_icons=true&theme=tokyonight&hide_border=true&card_width=1000)](https://github.com/AbbasSherazi89)  
+
+---
+
+### 📈 **Activity Graph**  
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbbasSherazi89&theme=tokyo-night&hide_border=true)](https://github.com/AbbasSherazi89)  
+
+---
+
+### 🚀 **Profile Overview**  
+[![Profile Overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbbasSherazi89&theme=tokyonight&hide_border=true)](https://github.com/AbbasSherazi89)  
+
+---
+
+## 💋 Connect with Me  
 - **GitHub:** [AbbasSherazi89](https://github.com/AbbasSherazi89)  
 - **LinkedIn:** [Ibne Abbas](https://www.linkedin.com/in/ibne-abbas-2603451a3)  
 - **Email:** ibne.abbassherazi89@gmail.com  
