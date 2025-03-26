@@ -36,7 +36,7 @@
 ## 📊 GitHub Stats  
 
 ### 📊 **Top Languages**  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbbasSherazi89&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&cache_seconds=86400)](https://github.com/AbbasSherazi89)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbbasSherazi89&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&card_width=500)](https://github.com/AbbasSherazi89)
 
 ---
 
