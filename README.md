@@ -33,7 +33,11 @@
 ---
 
 ### 🔥 **Streak & Contributions**  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbbasSherazi89&theme=tokyonight&hide_border=true&card_width=1000)](https://github.com/AbbasSherazi89)  
+<p align="center">
+  <a href="https://github.com/AbbasSherazi89">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbbasSherazi89&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
 
 ---
 
