@@ -62,7 +62,7 @@
 
 ---
 
-## 💋 Connect with Me  
+## 🌐 Connect with Me  
 - **GitHub:** [AbbasSherazi89](https://github.com/AbbasSherazi89)  
 - **LinkedIn:** [Ibne Abbas](https://www.linkedin.com/in/ibne-abbas-2603451a3)  
 - **Email:** ibne.abbassherazi89@gmail.com  
