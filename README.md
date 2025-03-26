@@ -55,8 +55,10 @@
 
 ---
 
-### 🚀 **Profile Overview**  
-[![Profile Overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbbasSherazi89&theme=tokyonight&hide_border=true)](https://github.com/AbbasSherazi89)  
+### 🚀 Profile Overview  
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbbasSherazi89&theme=tokyonight&hide_border=true" width="100%">
+</div>
 
 ---
 
