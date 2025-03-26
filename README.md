@@ -33,9 +33,8 @@
 ---
 
 ### 🔥 **Streak & Contributions**  
-<p align="center">
-  <img src="[https://streak-stats.demolab.com/?user=AbbasSherazi89](https://streak-stats.demolab.com/?user=AbbasSherazi89)&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbbasSherazi89&theme=tokyonight&hide_border=true)
+
 
 ---
 
