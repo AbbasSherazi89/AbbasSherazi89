@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abbas Sherazi!  
+# 👋 Hi, I'm Ibne Abbas!
 
 💻 **Software Engineer** | **Full-Stack Web Developer at TakDevs**  
 🚀 Passionate about building scalable and efficient web applications.  
