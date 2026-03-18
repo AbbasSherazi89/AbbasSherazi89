@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ibne Abbas!
 
-💻 **Software Engineer** | **Full-Stack Web Developer at TakDevs**  
+💻 **Software Engineer** | **Full-Stack Web Developer**  
 🚀 Passionate about building scalable and efficient web applications.  
 ⚡ Specialized in Strapi (Backend) | Angular (Frontend) | PostgreSQL (Database).  
 🌱 Always exploring new technologies and contributing to open-source projects.  
